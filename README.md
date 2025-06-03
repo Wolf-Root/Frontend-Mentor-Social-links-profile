@@ -19,8 +19,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/Wolf-Root/Frontend-Mentor-Social-links-profile)
--   Live Site URL: [Add live site URL here](https://wolf-root.github.io/Frontend-Mentor-Social-links-profile/)
+-   [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/frontend-mentor---social-links-profile-solution-htmlscss-iOPS_DqY6R)
+-   [Live Site](https://wolf-root.github.io/Frontend-Mentor-Social-links-profile/)
 
 ## My process
 
@@ -32,6 +32,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Author
 
--   Website - [Add your name here](https://www.your-site.com)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
--   Twitter - [@yourusername](https://www.twitter.com/yourusername)
+-   Website - [My Portfolio](https://yousseffed.vercel.app/)
+-   Frontend Mentor - [Wolf-Root](https://www.frontendmentor.io/profile/Wolf-Root)
+-   Twitter - [wolf_R00T](https://x.com/wolf_R00T)
+
